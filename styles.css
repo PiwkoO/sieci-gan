@@ -48,7 +48,7 @@ h2 {
   position: relative;
   display: block;
   padding: 12px;
-  margin: 64px auto;
+  margin: 32px auto;
   border: 2px solid black;
   text-align: center;
   background-color: white;
@@ -175,7 +175,7 @@ button {
 
 #clockContainer {
   position: relative;
-  transform: rotate(90deg) translateX(25%);
+  transform: rotate(90deg) translateX(40%);
 }
 
 #clockCanvas {
