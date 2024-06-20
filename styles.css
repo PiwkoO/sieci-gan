@@ -6,6 +6,7 @@ body {
   -ms-user-select: none; /* IE/Edge */
   -webkit-touch-callout: none; /* iOS Safari */
   background-color: #4eb1ba;
+  overflow: hidden;
 }
 
 .container {
